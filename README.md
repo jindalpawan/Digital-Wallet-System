@@ -3,7 +3,7 @@
 
 * Design Digital Wallet system for Machine coding round or LLD design.
 
-* It will focus on the design of a Digital Wallet system like Google Pay or Paytm. But this design will be on a much smaller scale. We can’t obviously design complex systems like Google Pay or Paytm in 2-3 hours.
+* It will focus on the design of a Digital Wallet system like PhonePe or Paytm. But this design will be on a much smaller scale. We can’t obviously design complex systems like Google Pay or Paytm in 2-3 hours.
 
 * This solution can also be used for the LLD(Low-Level Design) round. You can use the same solution with some tweaks here and there.
 
